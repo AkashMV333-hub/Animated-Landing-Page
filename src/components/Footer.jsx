@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='w-screen flex flex-col  gap-10 bg-gray-700 pl-28 pr-28 pt-10 pb-10'>
+    <div className='w-screen flex flex-col  gap-10 bg-gray-700 pl-28 pr-28 pt-10 pb-10' data-aos='zoom-out'>
         <div>
             <h1 className='text-xl font-bold mb-3'>Contact Us :</h1>
             <div className='flex flex-col gap-2'>
